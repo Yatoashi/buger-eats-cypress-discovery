@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Marlon Yato",
+        "cpf": "19294210790",
+        "email": "xamanodale@gamil.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "24445220",
+            "street": "Rua João Catarino",
+            "number": "28",
+            "details": "casa",
+            "district": "Antonina",
+            "city_state": "São Gonçalo/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Joãozinho",
+        "cpf": "aa",
+        "email": "lalala@gamil.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "24445220",
+            "street": "Rua João Catarino",
+            "number": "28",
+            "details": "casa",
+            "district": "Antonina",
+            "city_state": "São Gonçalo/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Marlon Yato",
+        "cpf": "19294210790",
+        "email": "xamanodalegamil.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "postalcode": "24445220",
+            "street": "Rua João Catarino",
+            "number": "28",
+            "details": "casa",
+            "district": "Antonina",
+            "city_state": "São Gonçalo/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
